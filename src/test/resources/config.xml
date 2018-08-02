@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <number>42</number>
+    <database url="url" user="user" password="password" pool="20"/>
+    <feeds port="233" host="33/55">
+        <feed opt="opt" qvb="qvd" os="gdd"/>
+        <feed opt="4d" qvb="4fw" os="af" ds="23"/>
+        <feed opt="34" qvb="25" os="45"/>
+    </feeds>
+</configuration>

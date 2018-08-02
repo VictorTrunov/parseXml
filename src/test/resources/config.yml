@@ -1,0 +1,21 @@
+configuration:
+  number: 42
+  database:
+    url: "url"
+    user: "user"
+    password: "password"
+    pool: 20
+  feeds:
+    feed:
+    - opt: "opt"
+      qvb: "qvb"
+      os: "gdd"
+    - opt: "4d"
+      qvb: "4fw"
+      os: "af"
+      ds: "23"
+    - opt: "34"
+      qvb: "25"
+      os: "45"
+    port: "233"
+    host: "33/55"
